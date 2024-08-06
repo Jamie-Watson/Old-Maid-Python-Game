@@ -1,7 +1,7 @@
 # Old_Maid_Python_Game
 Runs the classic card game, Old Maid, using Python 3.
 
-** Running**
+**Running**
 
 To run the project, follow these steps:
 1. Click on the green "Code" button on the upper right-hand corner
